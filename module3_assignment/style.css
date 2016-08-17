@@ -1,0 +1,19 @@
+h3{
+	text-align: center;
+}
+.menu p{	
+	background-color: #EDF0ED;
+	padding:10px;
+
+}
+
+p span{
+	display: block;
+	font-size: 16px;
+	color:black;
+	font-weight: bold;
+	text-align: center;
+}
+li a{
+	text-align: center;
+}
